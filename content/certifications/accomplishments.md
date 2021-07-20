@@ -46,12 +46,4 @@ item:
     date_start: '2021-04-25'
     date_end: ''
     description: 'This certification focuses on the understanding, recognition, and treatment of anaphylaxis as well as emergency follow-up procedures.'
-    - organization: Desert Mountain Medicine
-    organization_url: 'https://desertmountainmedicine.com/'
-    title: Wilderness Anaphylaxis Training
-    url: ''
-    certificate_url: ''
-    date_start: '2021-04-25'
-    date_end: ''
-    description: 'This certification focuses on the understanding, recognition, and treatment of anaphylaxis as well as emergency follow-up procedures.'
 ---
