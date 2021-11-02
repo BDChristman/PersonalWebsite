@@ -25,9 +25,8 @@ design:
        
 ---
 
+I was born and raised in Schwenksville, PA. Most of my childhood was spent playing baseball, practicing guitar and saxophone, or roaming through the woods.
 
-Most of my childhood was spent at gymnastics and diving practice, collecting grasshoppers and butterflies, and playing in the woods in Schwenksville, PA. 
+I moved from Schwenksville to Memphis, TN to attend Rhodes College. While there, I had the opportunity to work on a variety of research projects. The most impactful of which came through an off-campus internship at the University of Tennessee Health Science Center’s Department of Preventive Medicine. Through this internship, I worked to identify the factors that contribute to the disparate development and outcomes of prostate cancer in African-Americans in the American Mid-South. This opportunity largely shaped my career interests by introducing me to the fields of biostatistics, epidemiology, and data science while building on my medical and social interests.
 
-While at Denison University, I worked as a greenhouse assistant and animal caretaker for the Biology Department. During this time, I expanded my love of nature by participating in research projects on the "Comparative study of insect diversity at three successional landscapes" in Ohio and the "Influence of ecotourism on Allen’s Cay rock iguanas" in the Bahamas. 
-
-Currently I am living in Logan, Utah while attending Utah State University. In my free time, I like traveling to national parks as well as hiking and going to the dog park with my mischevious pitbull, Carlton. I also spend a great deal of time at the boxing gym training and coaching. 
+In my free time, I like to practice and perform on the saxophone. I have been fortunate enough to play with artists such as Bobby Rush and Spaceface. I also like to play chess, birdwatch, and exercise.
