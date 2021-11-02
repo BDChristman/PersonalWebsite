@@ -1,37 +1,32 @@
 ---
 # Display name
-title: Morgan (Mo) Christman
+title: Brian D. Christman
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Ecology PhD Candidate 
+role: Biostatistics and Data Science PhD Student 
 
 # Organizations/Affiliations
 organizations:
-- name: Utah State University 
+- name: University of Mississippi Medical Center
   url: ""
 
 interests:
-- Landscape Ecology
-- Pollinator Ecology
-- Machine Learning
-- Geospatial Modeling 
-- Conservation 
-- Climate Adaptation
+- Clinical Trials Methodology
+- Cardiology
+- Suicidology
+- Health Disparities
 
 education:
   courses:
-  - course: PhD Candidate in Ecology
-    institution: Utah State University
-    year: 2022 (Anticipated)
-  - course: BS in Biology
-    institution: Denison University
-    year: 2017
-  - course: BA in Environmental Studies
-    institution: Denison University
-    year: 2017
+  - course: PhD Student in Biostatistics and Data Science
+    institution: University of Mississippi Medical Center
+    year: 2026 (Anticipated)
+  - course: BS in Biomathematics
+    institution: Rhodes College
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,13 +35,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto: mochristman@gmail.com'
+  link: 'mailto: bchristman@umc.edu'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=ULJUrRcAAAAJ&hl=en
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/mochristman
+  link: https://github.com/BDChristman
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -62,6 +57,6 @@ highlight_name: false
 
 ---
 
-I am an Ecology PhD Candidate in the Biology Department as well as a National Science Foundation Trainee within the Climate Adaptation Science Program at Utah State University. Broadly, I am interested in data-driven projects that integrate ecology, modeling, and geospatial analysis.  
+I am a Biostatistics and Data Science PhD student in the School of Population Health at the University of Mississippi Medical Center. Broadly, I am interested in developing statistical methodologies and assessing health disparities in the southeastern United States.
 
-My current research evaluates the impact of anthropogenic disturbances on bumble bee diversity, colony growth, and development both on a state and national scale. My goal is to produce research that both informs and helps promote positive conservation and management practices. 
+My current research focuses on two different topics: youth suicide in Mississippi and indirect treatment comparison. Through the youth suicide research, I hope to provide population specific insight on youth suicide and contribute to the implementation of intervention methods to decrease suicide rates in Mississippi. Through the indirect treatment comparison research, I hope to further develop the methodological framework for indirectly comparing medications and ultimately help to inform medication prescription decisions.
