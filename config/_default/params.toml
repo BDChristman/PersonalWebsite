@@ -9,7 +9,7 @@
 
 # Choose a theme.
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
-theme = "ocean"
+theme = "mr robot"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -42,7 +42,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Morgan Christman Professional Page."
+description = "Brian Christman's Professional Page"
 
 ############################
 ## Site Features
@@ -78,12 +78,12 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mochristman@gmail.com"
-phone = "(610) 316-2710"
+email = "bchristman@umc.edu"
+phone = "(610) 999-4489"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {city = "Logan", region = "UT", postcode = "84322", country = "United States", country_code = "US"}
+address = {city = "Jackson", region = "MS", postcode = "39216", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
