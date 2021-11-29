@@ -38,7 +38,7 @@ social:
   link: 'mailto: bchristman@umc.edu'
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6ZIdaHlDDxD3cI2D_hVPFQXqYqd72xx1FpF6a1HqV0JQqXXj95CROhGPnrotxrPswqw81hho5g6-XPX--SW7QaA4D6UMxcsdOR1LoHWP8fzknzJpQ&user=o5gRTLYAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/BDChristman
