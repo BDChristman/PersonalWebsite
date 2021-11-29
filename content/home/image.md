@@ -15,7 +15,7 @@ weight: 40
 design:
   columns: "1"
   background:
-    image: coders.jpg
+    image: mississippi.jpg
     image_darken: 0
     image_parallax: false
     image_position: center 
