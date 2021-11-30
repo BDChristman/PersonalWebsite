@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 interests:
-- Clinical Trials Methodology
+- Clinical Trials
 - Cardiology
 - Suicidology
 - Health Disparities
