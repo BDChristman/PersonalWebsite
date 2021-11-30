@@ -6,14 +6,14 @@ weight: 10
 # ... Put Your Section Options Here (title etc.) ...
 design:
   background:
-    image: nat.jpg
+    image:
     image_darken: 0
     image_parallax: false
     image_position: center 
-    image_size: cover
+    image_size:
     text_color_light: false
 advanced:
-   css_class: fullscreen
+   css_class:
 
 # Experiences.
 #   Add/remove as many `experience` blocks below as you like.
