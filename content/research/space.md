@@ -1,6 +1,6 @@
 ---
 widget: blank
-weight: 5
+weight: 10
 
 # ... Put Your Section Options Here (title etc.) ...
 design:
