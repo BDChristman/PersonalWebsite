@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "A Demographic Model of the Endangered Florida Native Bromeliad Tillandsia utriculata"
-publication_short: "Demographic Model Tillandsia utriculata"
+publication_short:
 
 abstract: The large, long-lived, epiphytic bromeliad Tillandsia utriculata is currently listed as state-endangered in Florida due to significant population reduction from predation by an invasive weevil, Metamasius callizona. We have developed a novel demographic model of a population of T. utriculata in Myakka River State Park (MRSP) in Sarasota, Florida using a stage-structured matrix model. Analysis of the model revealed conditions for population viability over a variety of parameter scenarios. Model analysis showed that without weevil predation the minimum germination rate required for population viability is low (4–16%), and that given a viable population at structural equilibrium we would expect to find 15 cm in flower or post-flowering each year. Additionally, the model presented here provides a basis for further analyses which explore specific conservation strategies.
 
