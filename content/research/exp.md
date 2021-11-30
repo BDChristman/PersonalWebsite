@@ -25,7 +25,7 @@ experience:
 
   - title: 'Parametric and Machine Learning Risk Prediction of Youth Suicidality in Mississippi'
     company: 'Department of Data Science, University of Mississippi Medical Center'
-    date_start: '2021-01-06-'
+    date_start: '2021-06-01'
     date_end: ''
     description: >-
       
