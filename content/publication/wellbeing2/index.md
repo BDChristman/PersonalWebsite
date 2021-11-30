@@ -1,12 +1,14 @@
 ---
 title: "Utah Wellbeing Survey- Executive Summary"
 authors:
-- Courtney Flint
-- Casey Trout
-- Morgan Christman
-- Rachel Sagers
-date: "2020-09-26T00:00:00Z"
-doi: ""
+- Robert Laport
+- Zoe Brookover
+- Brian Christman
+- Julienne Ng
+- Kevin Philley
+- J. Hill Craddock
+date: "2021-09-11T00:00:00Z"
+doi: "https://doi.org/10.1101/2021.09.10.459451"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -15,19 +17,19 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Utah State University Extension"
-publication_short: "Utah State University Extension"
+publication: "Environmental Niche and Demographic Modeling of American chestnut Near its Southwestern Range Limit"
+publication_short:
 
-abstract: The Utah Wellbeing Survey project is designed to assess the wellbeing and local perspectives of city residents, and provide information to city leaders to inform their general planning processes. In early 2020, 18 cities participated in the Utah Wellbeing Survey. The 2020 survey was conducted online between late January and mid-March, with each city’s survey open for approximately 3 weeks. Therefore, these data describe wellbeing perspectives just prior to the COVID-19 pandemic. Cities advertised the survey via social media, newsletters, websites, and locally distributed information. All residents in the participating cities age 18 and older were encouraged to take the online Qualtrics survey.
+abstract: The inadvertent introduction and rapid spread of chestnut blight (caused by Cryphonectria parasitica (Murr.) Barr) in the early 20th century resulted in the demise of American chestnut (Castanea dentata (Marsh.) Borkh.; Fagaceae) as a major component of forest canopies and had negative impacts on eastern forest communities. Research efforts over the last century have documented the persistence of occasional trees and root crown/stump sprouts throughout much of the species’ historic range providing the basis for ongoing breeding of blight-resistant stock and restoration efforts. Unfortunately, it remains unclear how much of the historic range remains climatically suitable for remnant trees that may harbor unique genetic variation for successful reintroduction efforts. Here we investigate whether the southwestern portion of the historical range remains environmentally suitable for undiscovered remnant populations of C. dentata using environmental niche modeling. We also use stage-structured matrix projection models to investigate the potential demographic future of C. dentata in W Tennessee, N Mississippi, SW Kentucky, and NW Alabama based upon observations of American chestnut in these areas over the last several decades. We found that suitable habitat associated with higher elevations and areas of high forest canopy cover occurs throughout much of the southwestern portion of the historical range and that populations of American chestnut in these areas are predicted to drastically decline over the next ∼100-200 years without conservation interventions to mitigate the negative consequences of chestnut blight.
 
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://extension.usu.edu/business-and-community/utah-wellbeing-project/reports/statewide-wellbeing-survey-report-sept-2020"
+url_pdf: "https://www.biorxiv.org/content/10.1101/2021.09.10.459451v1.full.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
