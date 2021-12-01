@@ -19,7 +19,6 @@ interests:
 - Cardiology
 - Suicidology
 - Health Disparities
-- 
 
 education:
   courses:
