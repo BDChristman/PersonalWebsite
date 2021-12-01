@@ -19,7 +19,7 @@ item:
     title: General Tutoring
     url: ''
     certificate_url: ''
-    date_start: '2021-01-01'
+    date_start: '2022-01-01'
     date_end: ''
     description: 'Mathematics and science tutoring for students from Kindergarten through 12th grade. Available for both in-person and online sessions.
     
