@@ -19,7 +19,7 @@ item:
     title: General Tutoring
     url: ''
     certificate_url: ''
-    date_start: ''
+    date_start: '2021-01-01'
     date_end: ''
     description: 'Available for mathematics, statistics, and biology tutoring.
     
