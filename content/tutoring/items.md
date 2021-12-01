@@ -21,7 +21,7 @@ item:
     certificate_url: ''
     date_start: '2022-01-01'
     date_end: ''
-    description: 'Mathematics and science tutoring for students from Kindergarten through 12th grade. Available for both in-person and online sessions. Please email me if interested.
+    description: 'Mathematics and science tutoring for students in Kindergarten through 12th grade. Available for both in-person and online sessions. Please email me if interested.
     
     Price: $20/hour'
     
