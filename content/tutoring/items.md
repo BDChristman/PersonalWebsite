@@ -42,7 +42,7 @@ item:
     certificate_url: ''
     date_start: '2022-01-01'
     date_end: ''
-    description: 'GRE test preparation for all sections. In full transparency, I took the GRE in 2017 and received a 321. My quantitative score was a 161, verbal score was 160, and writing score was 4.5. 
+    description: 'GRE test preparation for all sections. In full transparency, I took the GRE in 2017 and received a 321. My quantitative score was 161, verbal score was 160, and writing score was 4.5. 
     
     Price: $25/hour'
 ---
