@@ -15,13 +15,16 @@ date_format: Jan 2006
 #   Begin/end multi-line descriptions with `>-`.
 item:
   - organization: Utah State University 
-    organization_url: 'https://www.usu.edu/degrees/index.cfm?id=1180'
-    title: Geographic Information Systems (GIS)
+    organization_url: ''
+    title: General Tutoring
     url: ''
     certificate_url: ''
-    date_start: '2021-05-07'
+    date_start: ''
     date_end: ''
-    description: 'This certification focuses on applying industry standard GIS and remote sensing tools to natural resource issues.'
+    description: 'Available for mathematics, statistics, and biology tutoring.
+    
+    Pricing: K-5: $15/hour
+             6-12: $20/hour'
   - organization: Desert Mountain Medicine
     organization_url: 'https://desertmountainmedicine.com/'
     title: Wilderness First Aid
