@@ -15,9 +15,11 @@ organizations:
 
 interests:
 - Clinical Trials
+- Pediatrics
 - Cardiology
 - Suicidology
 - Health Disparities
+- 
 
 education:
   courses:
