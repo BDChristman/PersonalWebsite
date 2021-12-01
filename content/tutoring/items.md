@@ -14,7 +14,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with `>-`.
 item:
-  - organization: Utah State University 
+  - organization: Brian D. Christman
     organization_url: ''
     title: General Tutoring
     url: ''
@@ -25,24 +25,24 @@ item:
     
     Price: $20/hour'
     
-  - organization: Desert Mountain Medicine
-    organization_url: 'https://desertmountainmedicine.com/'
+  - organization: Brian D. Christman
+    organization_url: ''
     title: SAT Preparation 
     url: ''
     certificate_url: ''
-    date_start: '2021-04-25'
+    date_start: '2022-01-01'
     date_end: ''
-    description: 'SAT test preparation, specifically in the quantitative section. However, I am open to full exam preparation. In full transparency, I took the SATs in 2016 and received a 1430. My quantitative score was a 740 and verbal score was a 690. 
+    description: 'SAT test preparation for all sections. In full transparency, I took the SAT in 2016 and received a 1430. My quantitative score was a 740 and verbal score was a 690. 
     
     Price: $25/hour'
-  - organization: Desert Mountain Medicine
-    organization_url: 'https://desertmountainmedicine.com/'
+  - organization: Brian D. Christman
+    organization_url: ''
     title: GRE Preparation
     url: ''
     certificate_url: ''
-    date_start: '2021-04-25'
+    date_start: '2022-01-01'
     date_end: ''
-    description: 'GRE test preparation, specifically in the quantitative section. However, I am open to full exam preparation. In full transparency, I took the SATs in 2016 and received a 321. My quantitative score was a 161, verbal score was a 160, and writing score was a 4.5. 
+    description: 'GRE test preparation for all sections. In full transparency, I took the GRE in 2017 and received a 321. My quantitative score was a 161, verbal score was a 160, and writing score was a 4.5. 
     
     Price: $25/hour'
 ---
