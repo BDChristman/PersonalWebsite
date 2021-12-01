@@ -21,31 +21,28 @@ item:
     certificate_url: ''
     date_start: '2021-01-01'
     date_end: ''
-    description: 'Mathematics and science tutoring for students from K-12. Available for both in-person and online sessions.
+    description: 'Mathematics and science tutoring for students from Kindergarten through 12th grade. Available for both in-person and online sessions.
     
-    Pricing: $20/hour'
+    Price: $20/hour'
+    
   - organization: Desert Mountain Medicine
     organization_url: 'https://desertmountainmedicine.com/'
-    title: Wilderness First Aid
+    title: SAT Preparation 
     url: ''
     certificate_url: ''
     date_start: '2021-04-25'
     date_end: ''
-    description: 'This certification focuses on prevention, assessment, and treatment of environmental illnesses, recognizing, and stabilizing life threats caused by trauma as well as calling for rescue in the event of a wilderness emergency.'
+    description: 'SAT test preparation, specifically in the quantitative section. However, I am open to full exam preparation. In full transparency, I took the SATs in 2016 and received a 1430. My quantitative score was a 740 and verbal score was a 690. 
+    
+    Price: $25/hour'
   - organization: Desert Mountain Medicine
     organization_url: 'https://desertmountainmedicine.com/'
-    title: CPR
+    title: GRE Preparation
     url: ''
     certificate_url: ''
     date_start: '2021-04-25'
     date_end: ''
-    description: 'This certification focuses on providing urgent treatment of life threatening cardiac emergencies.'
-  - organization: Desert Mountain Medicine
-    organization_url: 'https://desertmountainmedicine.com/'
-    title: Wilderness Anaphylaxis Training
-    url: ''
-    certificate_url: ''
-    date_start: '2021-04-25'
-    date_end: ''
-    description: 'This certification focuses on the understanding, recognition, and treatment of anaphylaxis as well as emergency follow-up procedures.'
+    description: 'GRE test preparation, specifically in the quantitative section. However, I am open to full exam preparation. In full transparency, I took the SATs in 2016 and received a 321. My quantitative score was a 161, verbal score was a 160, and writing score was a 4.5. 
+    
+    Price: $25/hour'
 ---
