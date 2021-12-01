@@ -21,10 +21,9 @@ item:
     certificate_url: ''
     date_start: '2021-01-01'
     date_end: ''
-    description: 'Available for mathematics, statistics, and biology tutoring.
+    description: 'Mathematics and science tutoring for students from K-12. Available for both in-person and online sessions.
     
-    Pricing: K-5: $15/hour
-             6-12: $20/hour'
+    Pricing: $20/hour'
   - organization: Desert Mountain Medicine
     organization_url: 'https://desertmountainmedicine.com/'
     title: Wilderness First Aid
