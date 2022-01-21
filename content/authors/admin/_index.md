@@ -58,6 +58,6 @@ highlight_name: false
 
 ---
 
-I am an Ecology PhD Candidate in the Biology Department as well as a National Science Foundation Trainee within the Climate Adaptation Science Program at Utah State University. Broadly, I am interested in data-driven projects that integrate ecology, modeling, and geospatial analysis.  
+I am a Biostatistics and Data Science doctoral student in the School of Population Health at the University of Mississippi Medical Center. Broadly, I am interested in developing statistical methodologies for medical applications and identifying/assessing health problems in the Southeastern United States.  
 
-My current research evaluates the impact of anthropogenic disturbances on bumble bee diversity, colony growth, and development both on a state and national scale. My goal is to produce research that both informs and helps promote positive conservation and management practices. 
+My current research is focused on two different topics, indirect treatment comparison methodology and non-fatal suicidal behaviors among Mississippi adolescents. My goal is to produce research that informs pharmaceutical practices and aids in reducing the occurrence of adolescent suicide. 
