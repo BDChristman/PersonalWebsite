@@ -11,7 +11,7 @@ role: Biostatistics and Data Science PhD Student
 # Organizations/Affiliations
 organizations:
 - name: University of Mississippi Medical Center
-  url: ""
+  url: "https://www.umc.edu/SoPH/Departments-and-Faculty/Data-Science/Department-of-Data-Science-Home.html"
 
 interests:
 - Clinical Trials
@@ -58,6 +58,3 @@ highlight_name: false
 
 ---
 
-I am a Biostatistics and Data Science PhD student in the School of Population Health at the University of Mississippi Medical Center. Broadly, I am interested in developing statistical methodologies and assessing health disparities in the southeastern United States.
-
-My current research focuses on two different topics: youth suicide in Mississippi and indirect treatment comparison. Through the youth suicide research, I hope to provide population specific insights on youth suicide and contribute to the implementation of intervention methods to decrease suicide rates in Mississippi. Through the indirect treatment comparison research, I hope to further develop the methodological framework for indirectly comparing medications and ultimately help to inform medication prescription decisions.
